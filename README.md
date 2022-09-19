@@ -5,5 +5,6 @@
 
 HAZARD NUKER
 
-![image](https://user-images.githubusercontent.com/113308827/191093884-4a6fe3df-d82e-4f42-b131-d72aaad78857.png)
+![image](https://user-images.githubusercontent.com/113308827/191093977-7dd480c4-282e-4b87-9dc0-9d9824dd61f2.png)
+
 
